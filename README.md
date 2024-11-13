@@ -6,7 +6,7 @@
 </p>
 
 <!-- GitHub Contribution Graph -->
-[![GitHub Contribution Graph](https://gh-contribution-screenshots.herokuapp.com/screenshot/username)](https://github.com/kornkawee)
+[![GitHub Contribution Graph](https://gh-contribution-screenshots.herokuapp.com/screenshot/kornkawee)](https://github.com/kornkawee)
 
 
 <h3 align="left">Languages and Tools:</h3>
